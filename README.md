@@ -79,10 +79,10 @@ Software Developer
 </p>
 🛠️ Software & Design Tools
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,Canva"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
 </p>
 
-Gemini • Arduino IDE • GitHub Copilot • WordPress
+•Canva Gemini • Arduino IDE • GitHub Copilot • WordPress
 
 ## 📊 GitHub Stats
 
