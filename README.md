@@ -28,6 +28,9 @@ Software Developer
 
 🌱 Currently learning
 - c++
+- c#
+- php
+- .Net
 - Kubernetes
 - AWS
 - CI/CD
@@ -82,17 +85,12 @@ Canva • Gemini • Arduino IDE • GitHub Copilot • WordPress
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkaamalesh0906&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kkaamalesh0906&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkaamalesh0906&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=kkaamalesh0906&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaamalesh0906&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaamalesh0906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ## 📈 Contribution Graph
