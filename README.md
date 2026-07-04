@@ -86,14 +86,14 @@ Canva • Gemini • Arduino IDE • GitHub Copilot • WordPress
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkaamalesh0906&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=kkaamalesh0906&theme=tokyonight&hide_border=true"/>
-</p> -->
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaamalesh0906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
+
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaamalesh0906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p> -->
 
 ## 📈 Contribution Graph
 
