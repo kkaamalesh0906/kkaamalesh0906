@@ -105,33 +105,58 @@ Canva • Gemini • Arduino IDE • GitHub Copilot • WordPress
 
 ## 🧠 LifeOS AI
 
-An AI-powered productivity platform for students that combines study planning, placement preparation, health tracking, and an intelligent AI assistant.
+An AI-powered productivity platform designed to help students manage academics, placements, health, and daily activities across Web and Mobile.
 
-**Tech Stack**
+### ✨ Features
 
-React • Node.js • Express • MongoDB • OpenAI
+- 📅 Smart Planner
+- 🎯 Placement Preparation
+- 🤖 AI Chat Assistant
+- 📚 Study Planner
+- 💪 Health & Diet Tracking
+- 📱 Cross-Platform (Web + Android)
 
----
+### 🛠 Tech Stack
 
-## 🩺 Swasthya AI
-
-Multilingual healthcare assistant available on WhatsApp, Telegram, and the Web.
-
-**Highlights**
-
-- AI Chatbot
-- Symptom Analysis
-- Government Health Information
-- Emergency Support
-
-**Tech Stack**
-
-Python • React • Node.js • MongoDB
+- React
+- Node.js
+- Express.js
+- Capacitor
+- Tailwind CSS
+- Firebase
+- OpenAI API
 
 ## 🩺 Swasthya AI
 
-Healthcare chatbot available on WhatsApp, Telegram, and Web.
+An AI-powered multilingual healthcare assistant available on Web, WhatsApp, and Telegram.
 
-**Tech**
+### ✨ Features
 
-Python • React • Node • MongoDB
+- 🤖 Conversational AI
+- 🌐 Multi-language Support
+- 🩺 Symptom Assistance
+- 📢 Health Awareness
+- 💬 WhatsApp Bot
+- ✈️ Telegram Bot
+
+### 🛠 Tech Stack
+
+- React
+- Node.js
+- Express.js
+- Rasa
+
+
+🛒 MERN E-Commerce Platform
+
+🎓 Campus Placement Hub
+
+🧠 Mental Health Support Platform
+
+🚌 Smart Bus Management App
+
+💡 AI Smart Street Light
+
+🎓 College Student Portal
+
+🏭 Digital Twin TLC Monitoring System 
