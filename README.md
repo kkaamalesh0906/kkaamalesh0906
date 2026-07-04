@@ -147,7 +147,7 @@ An AI-powered multilingual healthcare assistant available on Web, WhatsApp, and 
 - Node.js
 - Express.js
 - Rasa
-
+---
 🛒 MERN E-Commerce Platform
 
 🎓 Campus Placement Hub
@@ -166,8 +166,6 @@ An AI-powered multilingual healthcare assistant available on Web, WhatsApp, and 
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
-
-💻 Let's build something amazing together.
-
+⭐ Thanks for visiting my GitHub profile!
+💡 Always learning. Always building.
 </p>
