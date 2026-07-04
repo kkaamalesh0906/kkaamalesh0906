@@ -75,14 +75,14 @@ Software Developer
 </p>
 🤖 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,Yolo"/>
 </p>
 🛠️ Software & Design Tools
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,Canva"/>
 </p>
 
-Canva • Gemini • Arduino IDE • GitHub Copilot • WordPress
+Gemini • Arduino IDE • GitHub Copilot • WordPress
 
 ## 📊 GitHub Stats
 
