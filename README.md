@@ -20,13 +20,64 @@ Software Developer
 
 ## 👨‍💻 About Me
 
-I build Full Stack Applications.
+💻 Passionate Software Developer focused on building scalable web applications, mobile apps, AI-powered solutions, and IoT systems.
+
+🚀 Experienced in developing end-to-end applications using the MERN Stack, Flutter, Firebase, and modern backend technologies.
+
+🤖 Interested in Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, and System Design.
+
+🌱 Currently learning
+- c++
+- Kubernetes
+- AWS
+- CI/CD
+- Microservices
+- Generative AI
+- ReactNative
+- Machine Learning
+
+🎯 Open to
+- Software Development Roles
+- Full Stack Development
+- AI Projects
+- Open Source Contributions
 
 ## 🛠 Tech Stack
 
+💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,nodejs,express,mongodb,mysql,flutter,dart,docker,git,github,vscode,firebase,postman"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart,sql"/>
 </p>
+🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
+</p>
+⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+📱 Mobile App Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+</p>
+🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+</p>
+☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
+</p>
+🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+🛠️ Software & Design Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+</p>
+
+Canva • Gemini • Arduino IDE • GitHub Copilot • WordPress
 
 ## 📊 GitHub Stats
 
