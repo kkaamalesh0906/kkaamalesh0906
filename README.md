@@ -1,5 +1,11 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer;MERN+Stack+Developer;Full+Stack+Developer;Flutter+Developer;AI+Application+Developer;Java+Developer"/>
+</p> -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=1100&lines=Software+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer;Flutter+App+Developer;Java+Backend+Developer;AI+%26+Machine+Learning+Developer;IoT+Application+Developer;Open+Source+Contributor;Building+Scalable+Applications;Turning+Ideas+Into+Reality"
+    alt="Typing SVG"
+  />
 </p>
 <h1 align="center">
 Hi 👋 I'm Kaamalesh K
