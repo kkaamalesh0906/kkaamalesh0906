@@ -107,23 +107,28 @@ Canva • Gemini • Arduino IDE • GitHub Copilot • WordPress
 
 ## 🧠 LifeOS AI
 
-AI-powered productivity platform for students.
+An AI-powered productivity platform for students that combines study planning, placement preparation, health tracking, and an intelligent AI assistant.
 
-**Tech**
+**Tech Stack**
 
-React • Node.js • Express • MongoDB • AI
-
----
-
-## 🛒 E-Commerce Website
-
-Modern shopping platform with secure authentication, cart, payments, and admin dashboard.
-
-**Tech**
-
-MERN Stack
+React • Node.js • Express • MongoDB • OpenAI
 
 ---
+
+## 🩺 Swasthya AI
+
+Multilingual healthcare assistant available on WhatsApp, Telegram, and the Web.
+
+**Highlights**
+
+- AI Chatbot
+- Symptom Analysis
+- Government Health Information
+- Emergency Support
+
+**Tech Stack**
+
+Python • React • Node.js • MongoDB
 
 ## 🩺 Swasthya AI
 
