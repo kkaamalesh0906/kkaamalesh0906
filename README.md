@@ -32,7 +32,7 @@ Software Developer
 - Flutter
 - Java
 - Python
-- Deveops
+- Devops
 - SpringBoot
 - ReactNative
 - Machine Learning
