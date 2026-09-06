@@ -29,15 +29,11 @@ Software Developer
 🌱 Always learning new technologies and building real-world projects.
 
 🌱 Currently learning
-- c++
-- c#
-- php
-- .Net
-- Kubernetes
-- AWS
-- CI/CD
-- Microservices
-- Generative AI
+- Flutter
+- Java
+- Python
+- Deveops
+- SpringBoot
 - ReactNative
 - Machine Learning
 
